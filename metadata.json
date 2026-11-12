@@ -1,0 +1,6 @@
+{
+  "name": "AgroShift Gambia",
+  "description": "Crop-rotation decision-support application for rain-fed farmers in The Gambia using cached NASA Earth observation data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
